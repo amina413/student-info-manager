@@ -1,0 +1,41 @@
+[
+  {
+    "id": "S001",
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "course": "Computer Science"
+  },
+  {
+    "id": "S002",
+    "name": "Jane Smith",
+    "email": "jane.smith@gmail.com",
+    "course": "Software Engineering"
+  },
+  {
+    "id": "S003",
+    "name": "Ali Mohammed",
+    "email": "ali.mohammed@yahoo.com",
+    "course": "Information Systems"
+  },
+  [
+    {
+      "id": "S001",
+      "name": "Hafsah Isa",
+      "email": "hafsahisa@hotmail.com",
+      "course": "Computer Science"
+    },
+    {
+      "id": "S002",
+      "name": "Ahmed Yusuf",
+      "email": "ahmed.yusuf@gmail.com",
+      "course": "Information Technology"
+    },
+    {
+      "id": "S003",
+      "name": "Fatima Bello",
+      "email": "fatima.bello@example.com",
+      "course": "Software Engineering"
+    }
+  ]
+
+]
